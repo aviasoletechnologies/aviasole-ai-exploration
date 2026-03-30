@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep -E \"\\\\.\\(zip|mp4|tar|gz\\)$\")",
+      "Bash(xargs head:*)"
+    ]
+  }
+}
