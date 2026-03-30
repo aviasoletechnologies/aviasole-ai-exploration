@@ -216,7 +216,7 @@ WITHIN 1 MONTH:
 ORGANIZATION:     https://github.com/aviasoletechnologies
 REPOSITORY:       aviasole-ai-exploration
 WEBSITE:          www.aviasole.com
-EMAIL:            research@aviasole.com
+EMAIL:            info@aviasole.com
 LICENSE:          MIT (Open Source)
 VISIBILITY:       Public
 

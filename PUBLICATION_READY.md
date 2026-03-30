@@ -325,7 +325,7 @@ START:       github.com/aviasoletechnologies/.../blob/main/00_START_HERE.md
 **Social:**
 ```
 Website: www.aviasole.com
-Email:   research@aviasole.com
+Email:   info@aviasole.com
 ```
 
 ---

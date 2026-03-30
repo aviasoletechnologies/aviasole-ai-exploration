@@ -465,7 +465,7 @@ Before declaring success:
 - Compare with documented results
 
 **Enterprise questions?**
-- research@aviasole.com
+- info@aviasole.com
 - Visit www.aviasole.com
 
 ---

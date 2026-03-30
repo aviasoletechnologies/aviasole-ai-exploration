@@ -481,9 +481,9 @@ cd ../benchmarks && ./run-benchmarks.sh
 ## 💬 Questions & Discussion
 
 **Have questions about these findings?**
-- 📧 Research: research@aviasole.com
+- 📧 Research: info@aviasole.com
 - 🐛 Technical Issues: GitHub Issues
-- 💼 Enterprise Partnerships: research@aviasole.com
+- 💼 Enterprise Partnerships: info@aviasole.com
 
 ---
 

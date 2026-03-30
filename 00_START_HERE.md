@@ -35,7 +35,7 @@ This repository showcases Aviasole's expertise in LLM optimization and deploymen
 **"I want to contribute or extend this work"**
 1. Read: **[CONTRIBUTING.md](CONTRIBUTING.md)** - Contribution guidelines
 2. Check: GitHub issues for opportunities
-3. Contact: research@aviasole.com
+3. Contact: info@aviasole.com
 
 ### 🏢 For Company Leadership
 
@@ -262,7 +262,7 @@ A: Absolutely! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ## 📞 Contact & Support
 
 **Research Questions:**
-- 📧 research@aviasole.com
+- 📧 info@aviasole.com
 - 🌐 www.aviasole.com
 - 💼 LinkedIn: /company/aviasole
 
@@ -333,7 +333,7 @@ Everything is prepared for:
 - **Want to sell it?** → Read [PRESENTATION_KIT.md](PRESENTATION_KIT.md)
 - **Want to contribute?** → Read [CONTRIBUTING.md](CONTRIBUTING.md)
 
-**Questions?** research@aviasole.com
+**Questions?** info@aviasole.com
 
 ---
 

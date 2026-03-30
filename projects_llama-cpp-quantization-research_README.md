@@ -261,7 +261,7 @@ Expected results match published findings ±2% variance.
 ### For Enterprises
 - **Licensing:** MIT (open to commercial use)
 - **Support:** Available for consulting and integration
-- **Contact:** research@aviasole.com
+- **Contact:** info@aviasole.com
 
 ### For Researchers
 - **Citation:** [See publication references in FINDINGS.md]
@@ -294,7 +294,7 @@ Expected results match published findings ±2% variance.
 - [ ] Performance on edge devices
 - [ ] Industry partnerships
 
-**Interested in collaborating?** research@aviasole.com
+**Interested in collaborating?** info@aviasole.com
 
 ---
 
@@ -342,14 +342,14 @@ Expected results match published findings ±2% variance.
 ## 📞 Get In Touch
 
 **Research & Enterprise Solutions:**
-- 📧 Email: research@aviasole.com
+- 📧 Email: info@aviasole.com
 - 🌐 Website: www.aviasole.com
 - 💼 LinkedIn: Aviasole
 
 **Have questions?**
 - Technical issues: Create a GitHub issue
-- Enterprise inquiries: research@aviasole.com
-- Collaboration proposals: research@aviasole.com
+- Enterprise inquiries: info@aviasole.com
+- Collaboration proposals: info@aviasole.com
 
 ---
 

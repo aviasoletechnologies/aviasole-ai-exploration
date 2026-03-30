@@ -271,7 +271,7 @@ Look for issues labeled:
 
 ### Getting Help
 
-- 📧 **Email:** research@aviasole.com
+- 📧 **Email:** info@aviasole.com
 - 💬 **GitHub Issues:** Technical questions
 - 🤝 **GitHub Discussions:** Ideas and feedback
 
@@ -388,8 +388,8 @@ By contributing, you agree:
 
 | Area | Priority | Effort | Contact |
 |------|----------|--------|---------|
-| Hardware validation | High | 2-4 hours | research@aviasole.com |
-| Larger model testing | High | 1-2 weeks | research@aviasole.com |
+| Hardware validation | High | 2-4 hours | info@aviasole.com |
+| Larger model testing | High | 1-2 weeks | info@aviasole.com |
 | Documentation | Medium | 1-3 days | GitHub Issues |
 | Code optimization | Medium | 1-2 weeks | GitHub Issues |
 | Example code | Low | 1-3 days | GitHub Issues |
@@ -401,7 +401,7 @@ By contributing, you agree:
 We deeply appreciate all contributions, no matter how small. This research is better because of the community's involvement.
 
 **Questions? Reach out anytime:**
-- 📧 research@aviasole.com
+- 📧 info@aviasole.com
 - 💬 GitHub Issues
 - 🌐 www.aviasole.com
 

@@ -164,7 +164,7 @@ cat setup-guide.md
 ## 🤝 Collaboration & Inquiries
 
 **Enterprise AI Solutions:**
-- 📧 Email: research@aviasole.com
+- 📧 Email: info@aviasole.com
 - 💬 Interested in: Consulting, partnerships, licensing
 
 **Academic/Community:**
@@ -192,7 +192,7 @@ See [LICENSE](./LICENSE) and [ATTRIBUTION.md](./ATTRIBUTION.md) for complete det
 - Distributed quantization techniques
 - Real-time adaptation strategies
 
-**Interested in these topics?** Get in touch: research@aviasole.com
+**Interested in these topics?** Get in touch: info@aviasole.com
 
 ---
 

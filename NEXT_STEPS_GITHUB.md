@@ -207,7 +207,7 @@ Key Documents:
 **Option A: SSH Key**
 ```bash
 # Generate if needed
-ssh-keygen -t ed25519 -C "research@aviasole.com"
+ssh-keygen -t ed25519 -C "info@aviasole.com"
 
 # Add public key to GitHub Settings → SSH Keys
 # Then use SSH URL:

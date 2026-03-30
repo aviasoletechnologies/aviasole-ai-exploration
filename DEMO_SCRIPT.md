@@ -442,7 +442,7 @@ cat <<EOF
 │  Contact Aviasole AI Research        │
 ├──────────────────────────────────────┤
 │                                      │
-│  📧 Email: research@aviasole.com    │
+│  📧 Email: info@aviasole.com    │
 │  🌐 Website: www.aviasole.com       │
 │  📚 GitHub: /aviasole               │
 │  💼 LinkedIn: /company/aviasole     │

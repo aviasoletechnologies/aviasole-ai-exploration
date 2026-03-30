@@ -244,22 +244,22 @@ You can use our optimizations as a drop-in replacement for standard llama.cpp.
 - Include license in distribution
 - Provide attribution in documentation
 - Consider contributing improvements back
-- Contact research@aviasole.com for partnership opportunities
+- Contact info@aviasole.com for partnership opportunities
 
 ---
 
 ## Contact & Inquiries
 
 **Academic Questions:**
-- research@aviasole.com
+- info@aviasole.com
 
 **Licensing Questions:**
 - See [LICENSE](LICENSE) file
-- Contact: research@aviasole.com
+- Contact: info@aviasole.com
 
 **Attribution Issues:**
 - If we've missed attributing your work, please let us know
-- Email: research@aviasole.com
+- Email: info@aviasole.com
 
 ---
 

@@ -452,7 +452,7 @@ This portfolio stands out because:
 
 ### For Issues
 - Create GitHub issue
-- Email: research@aviasole.com
+- Email: info@aviasole.com
 - Review CONTRIBUTING.md for process
 
 ---

@@ -395,7 +395,7 @@ Key doc: FINDINGS.md
 Best regards,
 [Your name]
 Aviasole AI Research Team
-research@aviasole.com
+info@aviasole.com
 ```
 
 ---
